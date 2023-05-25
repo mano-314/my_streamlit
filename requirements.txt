@@ -1,5 +1,5 @@
 numpy 
-sklearn
+sklearn=0.24.2
 os
 sys
-matplotlib
+matplotlib=3.3.4
