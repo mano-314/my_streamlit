@@ -4,7 +4,6 @@ import matplotlib.animation as animation
 from matplotlib.animation import FuncAnimation
 from sklearn.metrics.pairwise import euclidean_distances
 import sys
-from IPython import display
 
 
 class initiallize() :
